@@ -1,4 +1,4 @@
-package Odev3.entities;
+package entities;
 
 public class Category {
     private int id;
